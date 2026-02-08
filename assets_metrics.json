@@ -1,0 +1,1484 @@
+[
+    {
+        "Ticker": "ABB.NS",
+        "Return": 0.0985,
+        "Risk": 0.269,
+        "Sharpe": 0.1432
+    },
+    {
+        "Ticker": "ABCAPITAL.NS",
+        "Return": 0.443,
+        "Risk": 0.2913,
+        "Sharpe": 1.3151
+    },
+    {
+        "Ticker": "ABFRL.NS",
+        "Return": -1.3121,
+        "Risk": 0.8407,
+        "Sharpe": -1.632
+    },
+    {
+        "Ticker": "ACC.NS",
+        "Return": -0.4203,
+        "Risk": 0.1763,
+        "Sharpe": -2.7243
+    },
+    {
+        "Ticker": "ADANIENT.NS",
+        "Return": -0.3386,
+        "Risk": 0.3136,
+        "Sharpe": -1.2713
+    },
+    {
+        "Ticker": "ADANIPORTS.NS",
+        "Return": 0.0656,
+        "Risk": 0.257,
+        "Sharpe": 0.022
+    },
+    {
+        "Ticker": "AFFLE.NS",
+        "Return": 0.1085,
+        "Risk": 0.3097,
+        "Sharpe": 0.1566
+    },
+    {
+        "Ticker": "AIAENG.NS",
+        "Return": 0.0144,
+        "Risk": 0.243,
+        "Sharpe": -0.1878
+    },
+    {
+        "Ticker": "ALKEM.NS",
+        "Return": 0.2114,
+        "Risk": 0.2129,
+        "Sharpe": 0.7111
+    },
+    {
+        "Ticker": "ALKYLAMINE.NS",
+        "Return": -0.2515,
+        "Risk": 0.2939,
+        "Sharpe": -1.0598
+    },
+    {
+        "Ticker": "AMBUJACEM.NS",
+        "Return": -0.1335,
+        "Risk": 0.2201,
+        "Sharpe": -0.8795
+    },
+    {
+        "Ticker": "ANDHRAPAP.NS",
+        "Return": -0.4747,
+        "Risk": 0.2868,
+        "Sharpe": -1.8644
+    },
+    {
+        "Ticker": "ANGELONE.NS",
+        "Return": 0.2,
+        "Risk": 0.4269,
+        "Sharpe": 0.3279
+    },
+    {
+        "Ticker": "APOLLOHOSP.NS",
+        "Return": 0.053,
+        "Risk": 0.2182,
+        "Sharpe": -0.032
+    },
+    {
+        "Ticker": "APOLLOTYRE.NS",
+        "Return": -0.0117,
+        "Risk": 0.2568,
+        "Sharpe": -0.2793
+    },
+    {
+        "Ticker": "ASHOKLEY.NS",
+        "Return": 0.3654,
+        "Risk": 0.277,
+        "Sharpe": 1.1028
+    },
+    {
+        "Ticker": "ASIANPAINT.NS",
+        "Return": -0.0013,
+        "Risk": 0.2127,
+        "Sharpe": -0.2881
+    },
+    {
+        "Ticker": "ASTRAL.NS",
+        "Return": -0.3298,
+        "Risk": 0.2685,
+        "Sharpe": -1.4517
+    },
+    {
+        "Ticker": "ASTRAMICRO.NS",
+        "Return": 0.0344,
+        "Risk": 0.4083,
+        "Sharpe": -0.0628
+    },
+    {
+        "Ticker": "AUBANK.NS",
+        "Return": 0.335,
+        "Risk": 0.2851,
+        "Sharpe": 0.9648
+    },
+    {
+        "Ticker": "AUROPHARMA.NS",
+        "Return": -0.1017,
+        "Risk": 0.2948,
+        "Sharpe": -0.5487
+    },
+    {
+        "Ticker": "AWL.NS",
+        "Return": -0.2203,
+        "Risk": 0.3062,
+        "Sharpe": -0.9152
+    },
+    {
+        "Ticker": "AXISBANK.NS",
+        "Return": 0.0464,
+        "Risk": 0.2005,
+        "Sharpe": -0.0677
+    },
+    {
+        "Ticker": "BAJAJFINSV.NS",
+        "Return": -0.1844,
+        "Risk": 0.2251,
+        "Sharpe": -1.0857
+    },
+    {
+        "Ticker": "BAJFINANCE.NS",
+        "Return": -0.0142,
+        "Risk": 0.2574,
+        "Sharpe": -0.2882
+    },
+    {
+        "Ticker": "BALAMINES.NS",
+        "Return": -0.4532,
+        "Risk": 0.4244,
+        "Sharpe": -1.209
+    },
+    {
+        "Ticker": "BALKRISIND.NS",
+        "Return": 0.0589,
+        "Risk": 0.2753,
+        "Sharpe": -0.0041
+    },
+    {
+        "Ticker": "BANDHANBNK.NS",
+        "Return": -0.0937,
+        "Risk": 0.3128,
+        "Sharpe": -0.4913
+    },
+    {
+        "Ticker": "BANKBARODA.NS",
+        "Return": 0.0804,
+        "Risk": 0.2547,
+        "Sharpe": 0.0802
+    },
+    {
+        "Ticker": "BATAINDIA.NS",
+        "Return": -0.4169,
+        "Risk": 0.2412,
+        "Sharpe": -1.9774
+    },
+    {
+        "Ticker": "BDL.NS",
+        "Return": 0.1112,
+        "Risk": 0.415,
+        "Sharpe": 0.1234
+    },
+    {
+        "Ticker": "BEL.NS",
+        "Return": 0.522,
+        "Risk": 0.2769,
+        "Sharpe": 1.6683
+    },
+    {
+        "Ticker": "BERGEPAINT.NS",
+        "Return": -0.0121,
+        "Risk": 0.2501,
+        "Sharpe": -0.2883
+    },
+    {
+        "Ticker": "BHARATFORG.NS",
+        "Return": -0.0764,
+        "Risk": 0.3017,
+        "Sharpe": -0.4521
+    },
+    {
+        "Ticker": "BHARTIARTL.NS",
+        "Return": 0.2792,
+        "Risk": 0.2032,
+        "Sharpe": 1.0784
+    },
+    {
+        "Ticker": "BIOCON.NS",
+        "Return": -0.086,
+        "Risk": 0.2933,
+        "Sharpe": -0.4976
+    },
+    {
+        "Ticker": "BOSCHLTD.NS",
+        "Return": 0.1804,
+        "Risk": 0.2472,
+        "Sharpe": 0.4869
+    },
+    {
+        "Ticker": "BPCL.NS",
+        "Return": 0.268,
+        "Risk": 0.2516,
+        "Sharpe": 0.8266
+    },
+    {
+        "Ticker": "BRITANNIA.NS",
+        "Return": 0.119,
+        "Risk": 0.2031,
+        "Sharpe": 0.2905
+    },
+    {
+        "Ticker": "BSE.NS",
+        "Return": 0.3955,
+        "Risk": 0.5232,
+        "Sharpe": 0.6413
+    },
+    {
+        "Ticker": "BSOFT.NS",
+        "Return": -0.2489,
+        "Risk": 0.3347,
+        "Sharpe": -0.923
+    },
+    {
+        "Ticker": "BTC-USD",
+        "Return": -0.1387,
+        "Risk": 0.382,
+        "Sharpe": -0.52
+    },
+    {
+        "Ticker": "CANBK.NS",
+        "Return": 0.264,
+        "Risk": 0.2771,
+        "Sharpe": 0.7362
+    },
+    {
+        "Ticker": "CARBORUNIV.NS",
+        "Return": -0.3134,
+        "Risk": 0.3383,
+        "Sharpe": -1.1037
+    },
+    {
+        "Ticker": "CDSL.NS",
+        "Return": -0.1037,
+        "Risk": 0.3317,
+        "Sharpe": -0.4935
+    },
+    {
+        "Ticker": "CENTRALBK.NS",
+        "Return": -0.5197,
+        "Risk": 0.2935,
+        "Sharpe": -1.9755
+    },
+    {
+        "Ticker": "CENTUM.NS",
+        "Return": 0.3761,
+        "Risk": 0.5163,
+        "Sharpe": 0.6121
+    },
+    {
+        "Ticker": "CENTURYPLY.NS",
+        "Return": 0.1295,
+        "Risk": 0.2826,
+        "Sharpe": 0.2459
+    },
+    {
+        "Ticker": "CERA.NS",
+        "Return": -0.4336,
+        "Risk": 0.252,
+        "Sharpe": -1.9586
+    },
+    {
+        "Ticker": "CHAMBLFERT.NS",
+        "Return": -0.3924,
+        "Risk": 0.3137,
+        "Sharpe": -1.442
+    },
+    {
+        "Ticker": "CHOLAFIN.NS",
+        "Return": 0.0168,
+        "Risk": 0.2876,
+        "Sharpe": -0.15
+    },
+    {
+        "Ticker": "CIPLA.NS",
+        "Return": -0.1909,
+        "Risk": 0.2043,
+        "Sharpe": -1.2285
+    },
+    {
+        "Ticker": "CLEAN.NS",
+        "Return": -0.4822,
+        "Risk": 0.309,
+        "Sharpe": -1.7548
+    },
+    {
+        "Ticker": "COALINDIA.NS",
+        "Return": 0.1606,
+        "Risk": 0.2052,
+        "Sharpe": 0.4904
+    },
+    {
+        "Ticker": "COCHINSHIP.NS",
+        "Return": 0.386,
+        "Risk": 0.4502,
+        "Sharpe": 0.724
+    },
+    {
+        "Ticker": "COFORGE.NS",
+        "Return": -0.4165,
+        "Risk": 0.3536,
+        "Sharpe": -1.3476
+    },
+    {
+        "Ticker": "COLPAL.NS",
+        "Return": -0.2752,
+        "Risk": 0.2179,
+        "Sharpe": -1.5385
+    },
+    {
+        "Ticker": "CONCOR.NS",
+        "Return": -0.3138,
+        "Risk": 0.2636,
+        "Sharpe": -1.4181
+    },
+    {
+        "Ticker": "CROMPTON.NS",
+        "Return": -0.5267,
+        "Risk": 0.2416,
+        "Sharpe": -2.4286
+    },
+    {
+        "Ticker": "CUMMINSIND.NS",
+        "Return": 0.2012,
+        "Risk": 0.2597,
+        "Sharpe": 0.5437
+    },
+    {
+        "Ticker": "CYIENT.NS",
+        "Return": -0.6339,
+        "Risk": 0.2897,
+        "Sharpe": -2.3954
+    },
+    {
+        "Ticker": "DABUR.NS",
+        "Return": 0.028,
+        "Risk": 0.1997,
+        "Sharpe": -0.1602
+    },
+    {
+        "Ticker": "DATAPATTNS.NS",
+        "Return": 0.4519,
+        "Risk": 0.5284,
+        "Sharpe": 0.7417
+    },
+    {
+        "Ticker": "DEEPAKNTR.NS",
+        "Return": -0.3396,
+        "Risk": 0.2993,
+        "Sharpe": -1.3354
+    },
+    {
+        "Ticker": "DELTACORP.NS",
+        "Return": -0.1501,
+        "Risk": 0.3634,
+        "Sharpe": -0.5782
+    },
+    {
+        "Ticker": "DEVYANI.NS",
+        "Return": -0.0302,
+        "Risk": 0.351,
+        "Sharpe": -0.2569
+    },
+    {
+        "Ticker": "DIVISLAB.NS",
+        "Return": -0.0631,
+        "Risk": 0.2455,
+        "Sharpe": -0.5014
+    },
+    {
+        "Ticker": "DIXON.NS",
+        "Return": -0.438,
+        "Risk": 0.3336,
+        "Sharpe": -1.4929
+    },
+    {
+        "Ticker": "DLF.NS",
+        "Return": -0.3392,
+        "Risk": 0.2646,
+        "Sharpe": -1.5087
+    },
+    {
+        "Ticker": "DRREDDY.NS",
+        "Return": -0.016,
+        "Risk": 0.212,
+        "Sharpe": -0.3585
+    },
+    {
+        "Ticker": "DYNAMATECH.NS",
+        "Return": 0.2289,
+        "Risk": 0.3794,
+        "Sharpe": 0.4452
+    },
+    {
+        "Ticker": "EICHERMOT.NS",
+        "Return": 0.2116,
+        "Risk": 0.2025,
+        "Sharpe": 0.7484
+    },
+    {
+        "Ticker": "ELGIEQUIP.NS",
+        "Return": -0.2578,
+        "Risk": 0.3809,
+        "Sharpe": -0.8343
+    },
+    {
+        "Ticker": "EPL.NS",
+        "Return": 0.1163,
+        "Risk": 0.2744,
+        "Sharpe": 0.2051
+    },
+    {
+        "Ticker": "ESCORTS.NS",
+        "Return": -0.0367,
+        "Risk": 0.2772,
+        "Sharpe": -0.3488
+    },
+    {
+        "Ticker": "FACT.NS",
+        "Return": -0.0031,
+        "Risk": 0.4389,
+        "Sharpe": -0.1438
+    },
+    {
+        "Ticker": "FEDERALBNK.NS",
+        "Return": 0.1753,
+        "Risk": 0.2275,
+        "Sharpe": 0.507
+    },
+    {
+        "Ticker": "FINCABLES.NS",
+        "Return": -0.2124,
+        "Risk": 0.3143,
+        "Sharpe": -0.8667
+    },
+    {
+        "Ticker": "FINEORG.NS",
+        "Return": 0.0141,
+        "Risk": 0.2674,
+        "Sharpe": -0.1716
+    },
+    {
+        "Ticker": "FINPIPE.NS",
+        "Return": -0.2848,
+        "Risk": 0.2774,
+        "Sharpe": -1.2429
+    },
+    {
+        "Ticker": "FLUOROCHEM.NS",
+        "Return": 0.0547,
+        "Risk": 0.29,
+        "Sharpe": -0.0181
+    },
+    {
+        "Ticker": "GAIL.NS",
+        "Return": -0.1892,
+        "Risk": 0.2585,
+        "Sharpe": -0.9638
+    },
+    {
+        "Ticker": "GALAXYSURF.NS",
+        "Return": -0.3256,
+        "Risk": 0.2504,
+        "Sharpe": -1.5399
+    },
+    {
+        "Ticker": "GC=F",
+        "Return": 0.3418,
+        "Risk": 0.2445,
+        "Sharpe": 1.1525
+    },
+    {
+        "Ticker": "GLENMARK.NS",
+        "Return": 0.4112,
+        "Risk": 0.32,
+        "Sharpe": 1.0975
+    },
+    {
+        "Ticker": "GNFC.NS",
+        "Return": -0.2291,
+        "Risk": 0.245,
+        "Sharpe": -1.18
+    },
+    {
+        "Ticker": "GODREJCP.NS",
+        "Return": 0.091,
+        "Risk": 0.214,
+        "Sharpe": 0.1451
+    },
+    {
+        "Ticker": "GODREJPROP.NS",
+        "Return": -0.3511,
+        "Risk": 0.3495,
+        "Sharpe": -1.1762
+    },
+    {
+        "Ticker": "GRANULES.NS",
+        "Return": -0.1916,
+        "Risk": 0.3248,
+        "Sharpe": -0.7746
+    },
+    {
+        "Ticker": "GRASIM.NS",
+        "Return": -0.0204,
+        "Risk": 0.1683,
+        "Sharpe": -0.4779
+    },
+    {
+        "Ticker": "GREENPANEL.NS",
+        "Return": -0.1922,
+        "Risk": 0.4303,
+        "Sharpe": -0.5861
+    },
+    {
+        "Ticker": "GREENPLY.NS",
+        "Return": 0.0748,
+        "Risk": 0.3986,
+        "Sharpe": 0.0372
+    },
+    {
+        "Ticker": "GRINDWELL.NS",
+        "Return": 0.0652,
+        "Risk": 0.3833,
+        "Sharpe": 0.0137
+    },
+    {
+        "Ticker": "GRSE.NS",
+        "Return": 0.7844,
+        "Risk": 0.5834,
+        "Sharpe": 1.2418
+    },
+    {
+        "Ticker": "GUJGASLTD.NS",
+        "Return": 0.0151,
+        "Risk": 0.2564,
+        "Sharpe": -0.175
+    },
+    {
+        "Ticker": "HAL.NS",
+        "Return": -0.0119,
+        "Risk": 0.2937,
+        "Sharpe": -0.2448
+    },
+    {
+        "Ticker": "HAPPSTMNDS.NS",
+        "Return": -0.6117,
+        "Risk": 0.2678,
+        "Sharpe": -2.5086
+    },
+    {
+        "Ticker": "HAVELLS.NS",
+        "Return": -0.2952,
+        "Risk": 0.2177,
+        "Sharpe": -1.6312
+    },
+    {
+        "Ticker": "HCLTECH.NS",
+        "Return": -0.1315,
+        "Risk": 0.224,
+        "Sharpe": -0.8547
+    },
+    {
+        "Ticker": "HDFCAMC.NS",
+        "Return": 0.1331,
+        "Risk": 0.2724,
+        "Sharpe": 0.2683
+    },
+    {
+        "Ticker": "HDFCBANK.NS",
+        "Return": 0.0561,
+        "Risk": 0.1351,
+        "Sharpe": -0.0289
+    },
+    {
+        "Ticker": "HEROMOTOCO.NS",
+        "Return": 0.1195,
+        "Risk": 0.2369,
+        "Sharpe": 0.2512
+    },
+    {
+        "Ticker": "HINDALCO.NS",
+        "Return": 0.3735,
+        "Risk": 0.2536,
+        "Sharpe": 1.2362
+    },
+    {
+        "Ticker": "HINDPETRO.NS",
+        "Return": 0.0191,
+        "Risk": 0.2989,
+        "Sharpe": -0.137
+    },
+    {
+        "Ticker": "HINDUNILVR.NS",
+        "Return": -0.0796,
+        "Risk": 0.1869,
+        "Sharpe": -0.7469
+    },
+    {
+        "Ticker": "ICICIBANK.NS",
+        "Return": 0.1569,
+        "Risk": 0.1556,
+        "Sharpe": 0.6224
+    },
+    {
+        "Ticker": "ICICIPRULI.NS",
+        "Return": -0.0822,
+        "Risk": 0.2104,
+        "Sharpe": -0.6755
+    },
+    {
+        "Ticker": "IDFCFIRSTB.NS",
+        "Return": -0.0093,
+        "Risk": 0.2539,
+        "Sharpe": -0.2728
+    },
+    {
+        "Ticker": "IEX.NS",
+        "Return": -0.5544,
+        "Risk": 0.473,
+        "Sharpe": -1.2989
+    },
+    {
+        "Ticker": "IGL.NS",
+        "Return": -0.3867,
+        "Risk": 0.2757,
+        "Sharpe": -1.62
+    },
+    {
+        "Ticker": "INDHOTEL.NS",
+        "Return": -0.3276,
+        "Risk": 0.2615,
+        "Sharpe": -1.4821
+    },
+    {
+        "Ticker": "INDIAMART.NS",
+        "Return": 0.2186,
+        "Risk": 0.2721,
+        "Sharpe": 0.5829
+    },
+    {
+        "Ticker": "INDIGO.NS",
+        "Return": -0.1978,
+        "Risk": 0.2453,
+        "Sharpe": -1.051
+    },
+    {
+        "Ticker": "INDUSINDBK.NS",
+        "Return": -0.371,
+        "Risk": 0.4275,
+        "Sharpe": -1.0082
+    },
+    {
+        "Ticker": "INDUSTOWER.NS",
+        "Return": 0.2255,
+        "Risk": 0.2686,
+        "Sharpe": 0.6164
+    },
+    {
+        "Ticker": "INFY.NS",
+        "Return": -0.3096,
+        "Risk": 0.2408,
+        "Sharpe": -1.5351
+    },
+    {
+        "Ticker": "INTELLECT.NS",
+        "Return": -0.0756,
+        "Risk": 0.4389,
+        "Sharpe": -0.309
+    },
+    {
+        "Ticker": "IOB.NS",
+        "Return": -0.5651,
+        "Risk": 0.3003,
+        "Sharpe": -2.0817
+    },
+    {
+        "Ticker": "IOC.NS",
+        "Return": 0.0286,
+        "Risk": 0.2158,
+        "Sharpe": -0.1456
+    },
+    {
+        "Ticker": "IPCALAB.NS",
+        "Return": 0.3358,
+        "Risk": 0.3394,
+        "Sharpe": 0.8126
+    },
+    {
+        "Ticker": "IRCTC.NS",
+        "Return": -0.3186,
+        "Risk": 0.1966,
+        "Sharpe": -1.9254
+    },
+    {
+        "Ticker": "IRFC.NS",
+        "Return": -0.3813,
+        "Risk": 0.2833,
+        "Sharpe": -1.5577
+    },
+    {
+        "Ticker": "ITC.NS",
+        "Return": -0.2792,
+        "Risk": 0.1927,
+        "Sharpe": -1.7605
+    },
+    {
+        "Ticker": "JBCHEPHARM.NS",
+        "Return": 0.151,
+        "Risk": 0.261,
+        "Sharpe": 0.3487
+    },
+    {
+        "Ticker": "JIOFIN.NS",
+        "Return": 0.2326,
+        "Risk": 0.2869,
+        "Sharpe": 0.6017
+    },
+    {
+        "Ticker": "JKCEMENT.NS",
+        "Return": 0.4007,
+        "Risk": 0.3034,
+        "Sharpe": 1.123
+    },
+    {
+        "Ticker": "JKPAPER.NS",
+        "Return": -0.1685,
+        "Risk": 0.3075,
+        "Sharpe": -0.7429
+    },
+    {
+        "Ticker": "JSWSTEEL.NS",
+        "Return": 0.25,
+        "Risk": 0.2087,
+        "Sharpe": 0.9107
+    },
+    {
+        "Ticker": "JUBLFOOD.NS",
+        "Return": -0.442,
+        "Risk": 0.2707,
+        "Sharpe": -1.8547
+    },
+    {
+        "Ticker": "JUBLINGREA.NS",
+        "Return": -0.2672,
+        "Risk": 0.3927,
+        "Sharpe": -0.8333
+    },
+    {
+        "Ticker": "KAJARIACER.NS",
+        "Return": -0.1615,
+        "Risk": 0.2826,
+        "Sharpe": -0.7836
+    },
+    {
+        "Ticker": "KALYANKJIL.NS",
+        "Return": -0.4955,
+        "Risk": 0.394,
+        "Sharpe": -1.4101
+    },
+    {
+        "Ticker": "KEC.NS",
+        "Return": -0.4581,
+        "Risk": 0.3879,
+        "Sharpe": -1.3356
+    },
+    {
+        "Ticker": "KEI.NS",
+        "Return": 0.173,
+        "Risk": 0.3414,
+        "Sharpe": 0.3311
+    },
+    {
+        "Ticker": "KOTAKBANK.NS",
+        "Return": 0.1,
+        "Risk": 0.1708,
+        "Sharpe": 0.2343
+    },
+    {
+        "Ticker": "KPITTECH.NS",
+        "Return": -0.4887,
+        "Risk": 0.3383,
+        "Sharpe": -1.6218
+    },
+    {
+        "Ticker": "LALPATHLAB.NS",
+        "Return": 0.1821,
+        "Risk": 0.2605,
+        "Sharpe": 0.4689
+    },
+    {
+        "Ticker": "LATENTVIEW.NS",
+        "Return": -0.2042,
+        "Risk": 0.3524,
+        "Sharpe": -0.7496
+    },
+    {
+        "Ticker": "LAURUSLABS.NS",
+        "Return": 0.0794,
+        "Risk": 0.3021,
+        "Sharpe": 0.0641
+    },
+    {
+        "Ticker": "LICHSGFIN.NS",
+        "Return": -0.1374,
+        "Risk": 0.2407,
+        "Sharpe": -0.82
+    },
+    {
+        "Ticker": "LICI.NS",
+        "Return": 0.0655,
+        "Risk": 0.233,
+        "Sharpe": 0.0235
+    },
+    {
+        "Ticker": "LT.NS",
+        "Return": 0.2317,
+        "Risk": 0.1922,
+        "Sharpe": 0.8931
+    },
+    {
+        "Ticker": "LTIM.NS",
+        "Return": -0.1991,
+        "Risk": 0.263,
+        "Sharpe": -0.9852
+    },
+    {
+        "Ticker": "LUPIN.NS",
+        "Return": 0.0293,
+        "Risk": 0.2611,
+        "Sharpe": -0.1175
+    },
+    {
+        "Ticker": "LXCHEM.NS",
+        "Return": -0.6012,
+        "Risk": 0.3542,
+        "Sharpe": -1.8666
+    },
+    {
+        "Ticker": "M&M.NS",
+        "Return": 0.0891,
+        "Risk": 0.2491,
+        "Sharpe": 0.117
+    },
+    {
+        "Ticker": "MAHABANK.NS",
+        "Return": 0.1462,
+        "Risk": 0.2941,
+        "Sharpe": 0.2931
+    },
+    {
+        "Ticker": "MANAPPURAM.NS",
+        "Return": 0.1882,
+        "Risk": 0.3227,
+        "Sharpe": 0.3972
+    },
+    {
+        "Ticker": "MANYAVAR.NS",
+        "Return": -0.6951,
+        "Risk": 0.2725,
+        "Sharpe": -2.7708
+    },
+    {
+        "Ticker": "MAPMYINDIA.NS",
+        "Return": -0.4845,
+        "Risk": 0.2767,
+        "Sharpe": -1.9678
+    },
+    {
+        "Ticker": "MARICO.NS",
+        "Return": 0.1222,
+        "Risk": 0.1838,
+        "Sharpe": 0.3382
+    },
+    {
+        "Ticker": "MARUTI.NS",
+        "Return": 0.0044,
+        "Risk": 0.1775,
+        "Sharpe": -0.3134
+    },
+    {
+        "Ticker": "MASTEK.NS",
+        "Return": -0.4732,
+        "Risk": 0.3336,
+        "Sharpe": -1.598
+    },
+    {
+        "Ticker": "MAZDOCK.NS",
+        "Return": 0.307,
+        "Risk": 0.416,
+        "Sharpe": 0.5937
+    },
+    {
+        "Ticker": "MCX.NS",
+        "Return": 0.3346,
+        "Risk": 0.3801,
+        "Sharpe": 0.7225
+    },
+    {
+        "Ticker": "MFSL.NS",
+        "Return": 0.3979,
+        "Risk": 0.2373,
+        "Sharpe": 1.424
+    },
+    {
+        "Ticker": "MGL.NS",
+        "Return": -0.3546,
+        "Risk": 0.31,
+        "Sharpe": -1.3375
+    },
+    {
+        "Ticker": "MOTHERSON.NS",
+        "Return": -0.0332,
+        "Risk": 0.3254,
+        "Sharpe": -0.2865
+    },
+    {
+        "Ticker": "MPHASIS.NS",
+        "Return": -0.1491,
+        "Risk": 0.2816,
+        "Sharpe": -0.7425
+    },
+    {
+        "Ticker": "MRF.NS",
+        "Return": 0.0854,
+        "Risk": 0.2433,
+        "Sharpe": 0.1043
+    },
+    {
+        "Ticker": "MTARTECH.NS",
+        "Return": 1.1472,
+        "Risk": 0.4696,
+        "Sharpe": 2.3151
+    },
+    {
+        "Ticker": "MUTHOOTFIN.NS",
+        "Return": 0.4288,
+        "Risk": 0.337,
+        "Sharpe": 1.0945
+    },
+    {
+        "Ticker": "NAM-INDIA.NS",
+        "Return": 0.285,
+        "Risk": 0.3575,
+        "Sharpe": 0.6293
+    },
+    {
+        "Ticker": "NATCOPHARM.NS",
+        "Return": -0.3684,
+        "Risk": 0.4358,
+        "Sharpe": -0.983
+    },
+    {
+        "Ticker": "NAUKRI.NS",
+        "Return": -0.4129,
+        "Risk": 0.2834,
+        "Sharpe": -1.6686
+    },
+    {
+        "Ticker": "NAVINFLUOR.NS",
+        "Return": 0.6752,
+        "Risk": 0.322,
+        "Sharpe": 1.9108
+    },
+    {
+        "Ticker": "NESTLEIND.NS",
+        "Return": 0.1767,
+        "Risk": 0.1919,
+        "Sharpe": 0.6081
+    },
+    {
+        "Ticker": "NHPC.NS",
+        "Return": -0.1217,
+        "Risk": 0.2661,
+        "Sharpe": -0.6826
+    },
+    {
+        "Ticker": "NMDC.NS",
+        "Return": 0.2203,
+        "Risk": 0.302,
+        "Sharpe": 0.5308
+    },
+    {
+        "Ticker": "NOCIL.NS",
+        "Return": -0.2922,
+        "Risk": 0.3566,
+        "Sharpe": -0.9877
+    },
+    {
+        "Ticker": "NTPC.NS",
+        "Return": 0.1815,
+        "Risk": 0.2029,
+        "Sharpe": 0.5988
+    },
+    {
+        "Ticker": "OBEROIRLTY.NS",
+        "Return": -0.2838,
+        "Risk": 0.2937,
+        "Sharpe": -1.1705
+    },
+    {
+        "Ticker": "OFSS.NS",
+        "Return": -0.4411,
+        "Risk": 0.2911,
+        "Sharpe": -1.7214
+    },
+    {
+        "Ticker": "ONGC.NS",
+        "Return": 0.1542,
+        "Risk": 0.2302,
+        "Sharpe": 0.4094
+    },
+    {
+        "Ticker": "PAGEIND.NS",
+        "Return": -0.3875,
+        "Risk": 0.2327,
+        "Sharpe": -1.923
+    },
+    {
+        "Ticker": "PARAS.NS",
+        "Return": 0.9114,
+        "Risk": 0.4962,
+        "Sharpe": 1.7159
+    },
+    {
+        "Ticker": "PERSISTENT.NS",
+        "Return": -0.2711,
+        "Risk": 0.3236,
+        "Sharpe": -1.0229
+    },
+    {
+        "Ticker": "PFC.NS",
+        "Return": -0.1928,
+        "Risk": 0.2692,
+        "Sharpe": -0.9388
+    },
+    {
+        "Ticker": "PFIZER.NS",
+        "Return": 0.1997,
+        "Risk": 0.2402,
+        "Sharpe": 0.5817
+    },
+    {
+        "Ticker": "PIDILITIND.NS",
+        "Return": 0.0202,
+        "Risk": 0.1621,
+        "Sharpe": -0.2456
+    },
+    {
+        "Ticker": "PIIND.NS",
+        "Return": -0.373,
+        "Risk": 0.2262,
+        "Sharpe": -1.9142
+    },
+    {
+        "Ticker": "PNB.NS",
+        "Return": 0.0023,
+        "Risk": 0.2563,
+        "Sharpe": -0.2249
+    },
+    {
+        "Ticker": "POLYCAB.NS",
+        "Return": 0.1425,
+        "Risk": 0.275,
+        "Sharpe": 0.3
+    },
+    {
+        "Ticker": "POLYPLEX.NS",
+        "Return": -0.2524,
+        "Risk": 0.2991,
+        "Sharpe": -1.0444
+    },
+    {
+        "Ticker": "POONAWALLA.NS",
+        "Return": 0.1929,
+        "Risk": 0.3685,
+        "Sharpe": 0.3606
+    },
+    {
+        "Ticker": "POWERGRID.NS",
+        "Return": -0.1113,
+        "Risk": 0.2112,
+        "Sharpe": -0.8112
+    },
+    {
+        "Ticker": "PRINCEPIPE.NS",
+        "Return": -0.5615,
+        "Risk": 0.3965,
+        "Sharpe": -1.5673
+    },
+    {
+        "Ticker": "PSB.NS",
+        "Return": -0.4391,
+        "Risk": 0.3479,
+        "Sharpe": -1.4346
+    },
+    {
+        "Ticker": "PVRINOX.NS",
+        "Return": -0.1169,
+        "Risk": 0.3069,
+        "Sharpe": -0.5765
+    },
+    {
+        "Ticker": "RATEGAIN.NS",
+        "Return": -0.2474,
+        "Risk": 0.3952,
+        "Sharpe": -0.7779
+    },
+    {
+        "Ticker": "RBLBANK.NS",
+        "Return": 0.4136,
+        "Risk": 0.327,
+        "Sharpe": 1.0813
+    },
+    {
+        "Ticker": "RECLTD.NS",
+        "Return": -0.3176,
+        "Risk": 0.2757,
+        "Sharpe": -1.3698
+    },
+    {
+        "Ticker": "REDINGTON.NS",
+        "Return": 0.0294,
+        "Risk": 0.5019,
+        "Sharpe": -0.061
+    },
+    {
+        "Ticker": "RELIANCE.NS",
+        "Return": 0.0828,
+        "Risk": 0.1788,
+        "Sharpe": 0.1277
+    },
+    {
+        "Ticker": "ROSSARI.NS",
+        "Return": -0.0114,
+        "Risk": 0.278,
+        "Sharpe": -0.2568
+    },
+    {
+        "Ticker": "ROUTE.NS",
+        "Return": -0.4703,
+        "Risk": 0.3234,
+        "Sharpe": -1.6396
+    },
+    {
+        "Ticker": "RVNL.NS",
+        "Return": -0.4828,
+        "Risk": 0.3566,
+        "Sharpe": -1.5221
+    },
+    {
+        "Ticker": "SAIL.NS",
+        "Return": 0.284,
+        "Risk": 0.3282,
+        "Sharpe": 0.6823
+    },
+    {
+        "Ticker": "SANOFI.NS",
+        "Return": -0.3428,
+        "Risk": 0.2066,
+        "Sharpe": -1.9497
+    },
+    {
+        "Ticker": "SBILIFE.NS",
+        "Return": 0.1238,
+        "Risk": 0.1871,
+        "Sharpe": 0.3407
+    },
+    {
+        "Ticker": "SBIN.NS",
+        "Return": 0.2534,
+        "Risk": 0.169,
+        "Sharpe": 1.1442
+    },
+    {
+        "Ticker": "SCHAEFFLER.NS",
+        "Return": 0.0365,
+        "Risk": 0.2844,
+        "Sharpe": -0.0825
+    },
+    {
+        "Ticker": "SESHAPAPER.NS",
+        "Return": -0.3637,
+        "Risk": 0.315,
+        "Sharpe": -1.345
+    },
+    {
+        "Ticker": "SHREECEM.NS",
+        "Return": -0.1113,
+        "Risk": 0.1749,
+        "Sharpe": -0.9791
+    },
+    {
+        "Ticker": "SIEMENS.NS",
+        "Return": -0.1445,
+        "Risk": 0.2721,
+        "Sharpe": -0.7515
+    },
+    {
+        "Ticker": "SJVN.NS",
+        "Return": -0.3181,
+        "Risk": 0.3413,
+        "Sharpe": -1.1079
+    },
+    {
+        "Ticker": "SKFINDIA.NS",
+        "Return": -0.5414,
+        "Risk": 0.676,
+        "Sharpe": -0.8895
+    },
+    {
+        "Ticker": "SOLARINDS.NS",
+        "Return": 0.2401,
+        "Risk": 0.3007,
+        "Sharpe": 0.5989
+    },
+    {
+        "Ticker": "SONACOMS.NS",
+        "Return": -0.2579,
+        "Risk": 0.3437,
+        "Sharpe": -0.9248
+    },
+    {
+        "Ticker": "SONATSOFTW.NS",
+        "Return": -0.5552,
+        "Risk": 0.4614,
+        "Sharpe": -1.3333
+    },
+    {
+        "Ticker": "SRF.NS",
+        "Return": -0.1106,
+        "Risk": 0.2465,
+        "Sharpe": -0.6919
+    },
+    {
+        "Ticker": "STYRENIX.NS",
+        "Return": -0.4948,
+        "Risk": 0.2735,
+        "Sharpe": -2.029
+    },
+    {
+        "Ticker": "SUDARSCHEM.NS",
+        "Return": -0.0635,
+        "Risk": 0.3273,
+        "Sharpe": -0.3773
+    },
+    {
+        "Ticker": "SUNPHARMA.NS",
+        "Return": -0.0353,
+        "Risk": 0.2115,
+        "Sharpe": -0.4507
+    },
+    {
+        "Ticker": "SUPREMEIND.NS",
+        "Return": -0.4175,
+        "Risk": 0.2649,
+        "Sharpe": -1.8026
+    },
+    {
+        "Ticker": "SUZLON.NS",
+        "Return": -0.1119,
+        "Risk": 0.3521,
+        "Sharpe": -0.4883
+    },
+    {
+        "Ticker": "SYNGENE.NS",
+        "Return": -0.5548,
+        "Risk": 0.2938,
+        "Sharpe": -2.0925
+    },
+    {
+        "Ticker": "TANLA.NS",
+        "Return": 0.2646,
+        "Risk": 0.4677,
+        "Sharpe": 0.4375
+    },
+    {
+        "Ticker": "TATACHEM.NS",
+        "Return": -0.3923,
+        "Risk": 0.2502,
+        "Sharpe": -1.8079
+    },
+    {
+        "Ticker": "TATACOMM.NS",
+        "Return": 0.0726,
+        "Risk": 0.3011,
+        "Sharpe": 0.0418
+    },
+    {
+        "Ticker": "TATACONSUM.NS",
+        "Return": 0.0904,
+        "Risk": 0.2194,
+        "Sharpe": 0.1387
+    },
+    {
+        "Ticker": "TATAPOWER.NS",
+        "Return": -0.122,
+        "Risk": 0.2192,
+        "Sharpe": -0.8301
+    },
+    {
+        "Ticker": "TATASTEEL.NS",
+        "Return": 0.3621,
+        "Risk": 0.2748,
+        "Sharpe": 1.0992
+    },
+    {
+        "Ticker": "TCS.NS",
+        "Return": -0.3951,
+        "Risk": 0.1978,
+        "Sharpe": -2.3002
+    },
+    {
+        "Ticker": "TECHM.NS",
+        "Return": -0.2337,
+        "Risk": 0.2403,
+        "Sharpe": -1.2223
+    },
+    {
+        "Ticker": "THERMAX.NS",
+        "Return": 0.3425,
+        "Risk": 0.323,
+        "Sharpe": 0.8747
+    },
+    {
+        "Ticker": "TIMKEN.NS",
+        "Return": -0.0507,
+        "Risk": 0.2737,
+        "Sharpe": -0.4045
+    },
+    {
+        "Ticker": "TITAN.NS",
+        "Return": 0.2788,
+        "Risk": 0.2053,
+        "Sharpe": 1.066
+    },
+    {
+        "Ticker": "TORNTPOWER.NS",
+        "Return": -0.131,
+        "Risk": 0.2904,
+        "Sharpe": -0.6579
+    },
+    {
+        "Ticker": "TRENT.NS",
+        "Return": -0.398,
+        "Risk": 0.3052,
+        "Sharpe": -1.501
+    },
+    {
+        "Ticker": "TRITURBINE.NS",
+        "Return": 0.1685,
+        "Risk": 0.4088,
+        "Sharpe": 0.2654
+    },
+    {
+        "Ticker": "TVSMOTOR.NS",
+        "Return": 0.0719,
+        "Risk": 0.2193,
+        "Sharpe": 0.0542
+    },
+    {
+        "Ticker": "UBL.NS",
+        "Return": -0.1733,
+        "Risk": 0.1888,
+        "Sharpe": -1.2356
+    },
+    {
+        "Ticker": "UCOBANK.NS",
+        "Return": -0.3233,
+        "Risk": 0.2698,
+        "Sharpe": -1.421
+    },
+    {
+        "Ticker": "ULTRACEMCO.NS",
+        "Return": 0.0436,
+        "Risk": 0.1756,
+        "Sharpe": -0.0936
+    },
+    {
+        "Ticker": "UNIONBANK.NS",
+        "Return": 0.3483,
+        "Risk": 0.3288,
+        "Sharpe": 0.8767
+    },
+    {
+        "Ticker": "UNOMINDA.NS",
+        "Return": -0.1949,
+        "Risk": 0.331,
+        "Sharpe": -0.7699
+    },
+    {
+        "Ticker": "UPL.NS",
+        "Return": -0.3507,
+        "Risk": 0.2588,
+        "Sharpe": -1.587
+    },
+    {
+        "Ticker": "VBL.NS",
+        "Return": -0.4556,
+        "Risk": 0.3136,
+        "Sharpe": -1.6444
+    },
+    {
+        "Ticker": "VGUARD.NS",
+        "Return": -0.211,
+        "Risk": 0.2342,
+        "Sharpe": -1.1573
+    },
+    {
+        "Ticker": "VINATIORGA.NS",
+        "Return": -0.377,
+        "Risk": 0.2199,
+        "Sharpe": -1.9871
+    },
+    {
+        "Ticker": "VOLTAS.NS",
+        "Return": -0.112,
+        "Risk": 0.2651,
+        "Sharpe": -0.649
+    },
+    {
+        "Ticker": "WHIRLPOOL.NS",
+        "Return": -0.2192,
+        "Risk": 0.3637,
+        "Sharpe": -0.7676
+    },
+    {
+        "Ticker": "WIPRO.NS",
+        "Return": -0.3905,
+        "Risk": 0.2358,
+        "Sharpe": -1.9102
+    },
+    {
+        "Ticker": "ZEEL.NS",
+        "Return": 0.0381,
+        "Risk": 0.3904,
+        "Sharpe": -0.0561
+    },
+    {
+        "Ticker": "ZENSARTECH.NS",
+        "Return": -0.2415,
+        "Risk": 0.3191,
+        "Sharpe": -0.9449
+    },
+    {
+        "Ticker": "ZYDUSLIFE.NS",
+        "Return": -0.3218,
+        "Risk": 0.2151,
+        "Sharpe": -1.7746
+    }
+]
