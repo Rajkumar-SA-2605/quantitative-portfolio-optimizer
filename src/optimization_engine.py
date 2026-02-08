@@ -7,9 +7,13 @@ import os
 from src.constants import get_indian_tickers
 
 TRADING_DAYS = 252
+<<<<<<< HEAD
 # Get the project root directory (2 levels up from src/optimization_engine.py)
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 METRICS_FILE = os.path.join(PROJECT_ROOT, "assets_metrics.json")
+=======
+METRICS_FILE = "assets_metrics.json"
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 
 def ensure_metrics_json():
     if os.path.exists(METRICS_FILE):
@@ -67,6 +71,42 @@ def calculate_portfolio_performance(weights, returns):
     port_volatility = np.sqrt(np.dot(weights.T, np.dot(cov_matrix * TRADING_DAYS, weights)))
     return port_return, port_volatility
 
+<<<<<<< HEAD
+=======
+def calculate_unsystematic_risk(weights, returns, market_ticker="^NSEI"):
+    try:
+        market_data = yf.download(market_ticker, start=returns.index[0], end=returns.index[-1], progress=False, auto_adjust=False)['Adj Close']
+        market_ret = market_data.pct_change(fill_method=None).dropna()
+        
+        common_dates = returns.index.intersection(market_ret.index)
+        port_daily_ret = returns.loc[common_dates].dot(weights)
+        mkt_daily_ret = market_ret.loc[common_dates]
+        
+        covariance = np.cov(port_daily_ret, mkt_daily_ret)[0][1]
+        market_variance = np.var(mkt_daily_ret)
+        beta = covariance / market_variance
+        
+        total_variance = np.var(port_daily_ret)
+        systematic_variance = (beta ** 2) * market_variance
+        unsystematic_variance = total_variance - systematic_variance
+        
+        return {
+            "Total Risk": np.sqrt(total_variance) * np.sqrt(TRADING_DAYS),
+            "Systematic Risk": np.sqrt(systematic_variance) * np.sqrt(TRADING_DAYS),
+            "Unsystematic Risk": np.sqrt(unsystematic_variance) * np.sqrt(TRADING_DAYS),
+            "Beta": beta
+        }
+    except:
+        # Fallback if market data fails
+        total_vol = returns.dot(weights).std() * np.sqrt(TRADING_DAYS)
+        return {
+            "Total Risk": total_vol,
+            "Systematic Risk": 0.0,
+            "Unsystematic Risk": total_vol,
+            "Beta": 1.0
+        }
+
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 def get_efficient_frontier(returns, num_portfolios=200):
     mean_ret = returns.mean() * TRADING_DAYS
     cov_mat = returns.cov() * TRADING_DAYS
@@ -107,6 +147,7 @@ def rank_candidates_by_risk_reduction(current_returns, candidate_tickers, candid
             "Correlation": combined.corr().iloc[:-1, -1].mean()
         })
     return pd.DataFrame(rankings).sort_values("Risk Reduction", ascending=False)
+<<<<<<< HEAD
 
 
 def calculate_unsystematic_risk(weights, returns, market_ticker="^NSEI"):
@@ -179,3 +220,5 @@ def calculate_unsystematic_risk(weights, returns, market_ticker="^NSEI"):
             "Beta": 0.0
         }
 
+=======
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58

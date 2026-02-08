@@ -11,8 +11,12 @@ from src.optimization_engine import (
     calculate_unsystematic_risk, 
     get_efficient_frontier,
     rank_candidates_by_risk_reduction,
+<<<<<<< HEAD
     ensure_metrics_json,
     METRICS_FILE
+=======
+    ensure_metrics_json
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 )
 
 st.set_page_config(page_title="Portfolio AI", layout="wide")
@@ -21,7 +25,11 @@ with st.spinner("Initializing Data Engine..."):
     ensure_metrics_json()
 
 try:
+<<<<<<< HEAD
     with open(METRICS_FILE, "r") as f:
+=======
+    with open("assets_metrics.json", "r") as f:
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
         ASSET_METRICS = pd.DataFrame(json.load(f))
     if ASSET_METRICS.empty:
         st.error("Metrics file is empty. Please delete it and restart app.")
@@ -52,6 +60,7 @@ if st.sidebar.button("Reset Portfolio"): st.session_state.portfolio = []
 # --- MAIN DASHBOARD ---
 st.title("🛡️ Portfolio Analytics & Efficient Frontier")
 
+<<<<<<< HEAD
 # --- FIX START: ROBUST EMPTY CHECK ---
 if not st.session_state.portfolio:
     st.info("👈 Please add stocks from the sidebar to begin.")
@@ -65,6 +74,14 @@ if port_df.empty or "Ticker" not in port_df.columns:
     st.stop() # STOPS EXECUTION HERE if dataframe is malformed
 # --- FIX END ---
 
+=======
+# FIX: Check if portfolio is empty BEFORE accessing Ticker column
+if not st.session_state.portfolio:
+    st.info("👈 Please add stocks from the sidebar to begin.")
+    st.stop()
+
+port_df = pd.DataFrame(st.session_state.portfolio)
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 user_tickers = port_df["Ticker"].tolist()
 
 with st.spinner("Fetching Real-time Data..."):
@@ -95,14 +112,20 @@ with st.spinner("Fetching Real-time Data..."):
     p_ret, p_vol = calculate_portfolio_performance(weights, returns)
     risk_breakdown = calculate_unsystematic_risk(weights, returns)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 # 2. PORTFOLIO VALUE CHART
 st.subheader(f"💰 Portfolio Value (Current: ₹{total_val:,.0f})")
 qty_series = port_df.set_index("Ticker")["Quantity"]
 hist_val = data.mul(qty_series, axis=1).sum(axis=1)
 st.plotly_chart(px.line(hist_val, labels={"value": "Portfolio Value (₹)"}), use_container_width=True)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 # 3. RISK METRICS & FRONTIER
 c1, c2 = st.columns([1, 2])
 
@@ -123,7 +146,10 @@ with c2:
     fig.add_trace(go.Scatter(x=[p_vol], y=[p_ret], mode='markers+text', marker=dict(color='red', size=15, symbol='star'), name='You', text=['YOU'], textposition="top center"))
     st.plotly_chart(fig, use_container_width=True)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 # 4. RECOMMENDATIONS
 st.divider()
 st.subheader("🚀 Smart Recommendations")

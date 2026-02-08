@@ -39,9 +39,16 @@ The dashboard is built on three core financial models:
 This is the foundation of the Efficient Frontier. We simulate thousands of portfolios to map the relationship between risk and return.
 
 *   **Expected Return ($E[R_p]$):**
+<<<<<<< HEAD
     \[ E[R_p] = \sum_{i=1}^{n} w_i E[R_i] \]
 *   **Portfolio Variance ($\sigma_p^2$):**
     \[ \sigma_p^2 = \mathbf{w}^T \mathbf{\Sigma} \mathbf{w} \]
+=======
+    ![Expected Return](assets/expected_return_white.png)
+
+*   **Portfolio Variance ($\sigma_p^2$):**
+    ![Variance](assets/variance_white.png)
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 
     Where:
     - $\mathbf{w}$ is the vector of asset weights.
@@ -51,11 +58,22 @@ This is the foundation of the Efficient Frontier. We simulate thousands of portf
 We use the **Capital Asset Pricing Model (CAPM)** framework to separate risks.
 
 *   **Portfolio Beta ($\beta_p$):** Measures your portfolio's volatility relative to the market (NIFTY 50).
+<<<<<<< HEAD
     \[ \beta_p = \frac{\text{Cov}(R_p, R_m)}{\text{Var}(R_m)} \]
 *   **Systematic Risk:** The portion of risk tied to the market.
     \[ \text{Systematic Variance} = \beta_p^2 \cdot \text{Var}(R_m) \]
 *   **Unsystematic Risk:** The portion of risk unique to your assets, which can be diversified away.
     \[ \text{Unsystematic Variance} = \text{Total Variance} - \text{Systematic Variance} \]
+=======
+    ![Beta](assets/beta_white.png)
+
+*   **Systematic Risk:** The portion of risk tied to the market.
+    ![Systematic Risk](assets/systematic_white.png)
+
+*   **Unsystematic Risk:** The portion of risk unique to your assets, which can be diversified away.
+    ![Unsystematic Risk](assets/unsystematic_white.png)
+
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
 
 ### 3. Proprietary Recommendation Algorithm
 This engine finds the best stocks to add to your portfolio to reduce unsystematic risk.
@@ -65,3 +83,8 @@ This engine finds the best stocks to add to your portfolio to reduce unsystemati
 4.  **Rank:** The "best" stocks are those that cause the largest drop in volatility ($\sigma_{old} - \sigma_{new}$).
 
 ## 📂 Project Structure
+<<<<<<< HEAD
+=======
+![Project Structure](assets/project_structure_white.png)
+
+>>>>>>> 248f8fec53b4d47b47c5453e7a885e87a51fdf58
